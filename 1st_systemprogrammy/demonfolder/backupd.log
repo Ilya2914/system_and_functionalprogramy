@@ -1,0 +1,6 @@
+2025-09-28 13:37:40,582 [INFO] === Демон запущен и готов к работе ===
+2025-09-28 13:37:40,582 [INFO] Источник: /home/ilya29/Desktop/demonfolder/test
+2025-09-28 13:37:40,582 [INFO] Каталог для резервных копий: /home/ilya29/Desktop/demonfolder/copytest
+2025-09-28 13:37:40,582 [INFO] Интервал копирования: 1 мин.
+2025-09-28 13:37:40,583 [INFO]  Успешно создана резервная копия: /home/ilya29/Desktop/demonfolder/copytest/backup-20250928-133740
+2025-09-28 13:38:40,589 [INFO]  Успешно создана резервная копия: /home/ilya29/Desktop/demonfolder/copytest/backup-20250928-133840
